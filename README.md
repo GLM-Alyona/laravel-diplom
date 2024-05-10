@@ -35,32 +35,58 @@
 * Пароль хранится в захешированном виде и при аутентификации происходит проверка хеша пользователя.
 
 ## Используемые NPM пакеты
+
 @headlessui/react@1.7.19
+
 @heroicons/react@2.1.3
+
 @tailwindcss/forms@0.5.7
+
 @types/react-dom@18.3.0
+
 @types/react@18.3.1
+
 @vitejs/plugin-react@4.2.1
+
 autoprefixer@10.4.19
+
 axios@1.6.8
+
 eslint-plugin-react-hooks@4.6.2
+
 eslint-plugin-react-refresh@0.4.7
+
 eslint-plugin-react@7.34.1
+
 eslint@8.57.0
+
 postcss@8.4.38
+
 qrcode@1.5.3
+
 react-dom@18.3.1
+
 react-qr-code@2.0.12
+
 react-router-dom@6.23.0
+
 react@18.3.1
+
 tailwindcss@3.4.3
+
 uuid@9.0.1
+
 vite@4.5.3
 
+
 ## Версии окружения
+
 PHP 8.2.17 
+
 Laravel Framework 10.48.10
+
 Node.js v18.17.1
+
 
 ## Инструкция по запуску приложения
 
